@@ -7,6 +7,6 @@ This class is used to demonstrate the use of a class inside of a Java program.
 
 To run:
 ``` bash
-javac Main.java
-java Main
+javac MainProject.java
+java MainProject
 ```
